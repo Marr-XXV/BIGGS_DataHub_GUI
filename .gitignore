@@ -1,8 +1,8 @@
 # Data files
 *Record2025.csv
-*fetch_2025-12-15_to_2025-12-17.csv
-*fetch_2025-12-25_to_2025-12-30.csv
-*fetch_2026-02-10_to_2026-02-10.csv
+*validation_errors_2026-03-06.csv
+*validation_errors_2026-04-08.csv
+*validation_errors_2026-04-13.csv
 
 # Directories with generated/cached data
 records/
